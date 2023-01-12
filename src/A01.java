@@ -4,5 +4,7 @@ public class A01 {
         System.out.println("Deneme");
         System.out.println("deneme2");
         System.out.println("....");
+
+        System.out.println("deneme 4");
     }
 }
